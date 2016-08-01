@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Why We Love Breckenridge, CO]]></title>
+        <description><![CDATA[Why We Love Breckenridge, CO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Aug 2016 19:41:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GoBreck.com: The Breckenridge Colorado Tourism Office]]></title>
+            <description><![CDATA[<article><h1>GoBreck.com: The Breckenridge Colorado Tourism Office</h1><p>Website of the Breckenridge Tourism Office, we have all the info you need to research, plan and book a trip to world-renowned Breckenridge, Colorado.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac163fe92266764c3efbd495d5d52562/noop.jpg?input=http%3A%2F%2Fwww.gobreck.com%2Fsites%2Fdefault%2Ffiles%2FSsummer-resized.jpg"></article>]]></description>
+            <link>http://www.gobreck.com/</link>
+            <guid isPermaLink="false">ee4a2f9d-e636-497c-8fbe-747b6c6034be</guid>
+            <pubDate>Mon, 01 Aug 2016 19:41:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
